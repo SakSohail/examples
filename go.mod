@@ -1,5 +1,5 @@
-module githun.com/SakSohail/examples
+module github.com/SakSohail/examples
 
 go 1.13
 
-require github.com/micro/go-micro v1.18.0
+require github.com/micro/go-micro v1.18.0 // indirect
